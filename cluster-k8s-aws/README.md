@@ -83,3 +83,6 @@ Terraform will perform the following actions:
 
 Plan: 1 to add, 0 to change, 0 to destroy.
 ```
+
+### IAM
+![](.github/IAM-group-role-policy.png)
