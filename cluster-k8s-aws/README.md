@@ -86,3 +86,9 @@ Plan: 1 to add, 0 to change, 0 to destroy.
 
 ### IAM
 ![](.github/IAM-group-role-policy.png)
+
+### Criando Kubeconfig para acessar o Cluster
+[./5-outputs.tf](./5-outputs.tf)
+
+### Instalando aws-iam-authenticator
+[Installing aws-iam-authenticator](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html)
