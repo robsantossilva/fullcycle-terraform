@@ -92,3 +92,8 @@ Plan: 1 to add, 0 to change, 0 to destroy.
 
 ### Instalando aws-iam-authenticator
 [Installing aws-iam-authenticator](https://docs.aws.amazon.com/eks/latest/userguide/install-aws-iam-authenticator.html)
+
+### Destruindo terraform deployment
+```bash
+terraform destroy
+```
