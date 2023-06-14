@@ -1,3 +1,2 @@
-variable "prefix" {
-  default = "newcluster"
-}
+variable "prefix" {}
+variable "vpc_cidr_block" {}
